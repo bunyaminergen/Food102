@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+autodistill
+autodistill-clip
+autodistill-detic
+autodistill-yolov8
+autodistill_grounding_dino
+autodistill-grounded-sam
+roboflow
+tqdm
+torch==2.3.0+cu121
+ultralytics
